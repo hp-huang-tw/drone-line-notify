@@ -1,4 +1,4 @@
-# drone-line-notify-bash
+# drone-line-notify
 
 ## Usage
 ### drone 1.0+
